@@ -11,15 +11,29 @@ This project leverages advanced AI technologies to analyze NVIDIA news in real-t
 - 📊 Topic clustering and analysis
 - 💰 Investment insights and recommendations
 
-## 🛠️ Technologies
-- Python 3.11+
-- LangChain
-- ChromaDB
-- Google Gemini AI
-- HuggingFace Transformers
-- NLTK
-- Pandas
-- scikit-learn
+
+## 🧠 Tools & Technologies
+
+| Tool/Library              | Purpose                               |
+|---------------------------|----------------------------------------|
+| `feedparser`, `bs4`       | News scraping and RSS feed parsing     |
+| `HuggingFaceEmbeddings`   | Sentence-level embeddings              |
+| `Chroma`                  | Vector database for fast similarity search |
+| `transformers`            | Sentiment analysis pipeline            |
+| `langchain` + `Gemini`    | Prompting and LLM-powered interpretation |
+| `Secrets`                  | Secure API key handling                |
+| `pandas`, `nltk`, `sklearn` | Data handling and clustering (optional) |
+
+## 🧩 Project Structure
+
+```bash
+├── news_fetcher.py        # Class to fetch and clean news
+├── semantic_search.py     # Embedding, vectorstore, and search
+├── news_analyzer.py       # Gemini-powered interpretation
+├── main.py                # Main execution logic
+├── README.md              # Project overview (this file)
+
+```
 
 ## 🚀 Getting Started
 
