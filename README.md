@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### Environment Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nvidia-news-analysis.git
+git clone https://github.com/gamzeakkurt/nvidia-news-analysis.git
 cd nvidia-news-analysis
 ```
 
@@ -86,11 +86,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - HuggingFace
 
 ## 📫 Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/nvidia-news-analysis](https://github.com/yourusername/nvidia-news-analysis)
 
-## 🔖 Hashtags
-#NVIDIA #AI #SemanticSearch #LangChain #ChromaDB #GeminiAI #DataAnalysis #MachineLearning #Python #NewsAnalysis #InvestmentAnalysis #NLP #DataScience #TechNews #StockAnalysis #FinancialNews #AIInsights #MarketAnalysis #TechTrends #DataVisualization
+Project Link: [https://github.com/gamzeakkurt/nvidia-news-analysis](https://github.com/gamzeakkurt/nvidia-news-analysis)
+
 
 ## 📈 Future Enhancements
 - [ ] Add more news sources
