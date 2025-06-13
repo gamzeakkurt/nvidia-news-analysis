@@ -99,10 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ChromaDB
 - HuggingFace
 
-## 📫 Contact
-
-Project Link: [https://github.com/gamzeakkurt/nvidia-news-analysis](https://github.com/gamzeakkurt/nvidia-news-analysis)
-
 
 ## 📈 Future Enhancements
 - [ ] Add more news sources
